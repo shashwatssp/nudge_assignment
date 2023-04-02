@@ -29,12 +29,7 @@ class HomePage extends StatelessWidget {
                   alignment: Alignment.bottomRight,
                   child: LauncherButton(
                     text: "",
-                    onPressed: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(builder: (context) => Modal()),
-                      );
-                    },
+                    page: Modal(),
                   ),
                 ),
               ),

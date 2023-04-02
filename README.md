@@ -4,6 +4,8 @@ This is a simple flutter application built as per the specifications provided in
 
 ## App Demo Video Link : https://youtu.be/5stHmpiUYWU
 
+## Github Link : https://github.com/shashwatssp/nudge_assignment
+
 ### Widgets
 #### BannerModal
 #### LauncherButton
